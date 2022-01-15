@@ -45,3 +45,11 @@ ul li{
     font-size: 20px;
     margin-left:100px ;
 }
+footer{
+    background-color: darkblue;
+    padding: 60px;
+    padding-left: 500px;
+    color: whitesmoke;
+    width: 1610px;
+
+}
